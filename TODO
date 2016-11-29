@@ -1,0 +1,23 @@
+
+Improvements:
+    Pause
+    Split tweaking - tweak asteroid splitting and make smaller asteroids go faster
+    Less squareish asteroid splitting
+    Vary number of verticies on initial asteroids
+    Center of gravity rotation, not center of bounding box rotation
+    Improved bullet collision - Treat as line, not single point
+    Polygon collision: one inside another
+    Key legend on title screen
+    More Levels
+
+Issues & Cleanup:
+    8 looks like a 3 in the score text
+    Naming of InputState functions
+
+Advanced Features:
+    Asteroid to asteroid collisions
+    Alien Ship
+    Sounds
+    High scores
+    More advanced safe spawning - If no asteroids will collide in next 4 sec
+    Health - damage based on relative momentum upon collision
